@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @egc16mw
+- 👋 Hi, I’m Monika
 - 👀 I’m interested in ML and NLP.
 - 🌱 I’m currently learning ML and NLP
 - 💞️ I’m looking to collaborate on ML and NLP.
