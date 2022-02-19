@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Monika, a student at The University of Sheffield in MSc in Computer Science with Speech and Language processing.
+- 👋 Hi, I’m Monika, a student at The University of Sheffield of MSc in Computer Science with Speech and Language processing.
 - 👀 I’m interested in ML and NLP.
 - 🌱 I’m currently learning ML and NLP.
 - 💞️ I’m looking to collaborate on ML and NLP.
