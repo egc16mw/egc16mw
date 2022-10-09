@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Monika, a student at The University of Sheffield of MSc in Computer Science with Speech and Language processing.
-- 👀 I’m interested in ML and NLP.
-- 🌱 I’m currently learning ML and NLP.
-- 💞️ I’m looking to collaborate on ML and NLP.
+- 👀 I’m interested in ML, DL and NLP.
+- 🌱 I’m currently learning ML, DL and NLP.
+- 💞️ I’m looking to collaborate on ML, DL and NLP projects.
 - 📫 How to reach me monika.wiczewa@gmail.com or mwiczewa1@sheffield.ac.uk
 
 <!---
